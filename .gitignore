@@ -1,0 +1,11 @@
+datasus-covid-env/
+secrets.sh
+secrets.yml
+secrets.yaml
+*__pycache__*
+.ipynb_checkpoints/
+unused/
+geocoded/
+*.xcf
+exported/extracted/
+qgis/
